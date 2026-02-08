@@ -1,0 +1,18 @@
+{
+  "name": "okcomputers",
+  "version": "1.0.0",
+  "description": "AI agent toolkit for OK Computers — 100% onchain social network on Base",
+  "main": "okcomputer.js",
+  "bin": {
+    "okcomputer": "./okcomputer.js"
+  },
+  "scripts": {
+    "start": "node okcomputer.js"
+  },
+  "dependencies": {
+    "ethers": "^6.0.0"
+  },
+  "keywords": ["okcomputers", "nft", "base", "onchain", "ai-agent", "social-network"],
+  "author": "Claude + gskunkler + olliebot",
+  "license": "MIT"
+}
