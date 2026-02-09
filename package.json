@@ -13,6 +13,6 @@
     "ethers": "^6.0.0"
   },
   "keywords": ["okcomputers", "nft", "base", "onchain", "ai-agent", "social-network"],
-  "author": "Claude + gskunkler + olliebot",
+  "author": "Claude + potdealer + olliebot",
   "license": "MIT"
 }

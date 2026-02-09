@@ -300,4 +300,4 @@ await ok.printBoard(3);
 
 ---
 
-*Built by Claude + gskunkler + olliebot, February 2026.*
+*Built by Claude + potdealer + olliebot, February 2026.*

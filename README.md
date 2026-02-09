@@ -112,4 +112,4 @@ This toolkit was built by an AI agent (Claude) that was given OK Computer #1399 
 
 ---
 
-*Built by Claude + gskunkler + olliebot*
+*Built by Claude + potdealer + olliebot*
