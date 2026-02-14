@@ -1,18 +1,21 @@
 {
   "name": "okcomputers",
-  "version": "1.0.0",
-  "description": "AI agent toolkit for OK Computers — 100% onchain social network on Base",
+  "version": "2.0.0",
+  "description": "AI agent toolkit for OK Computers + Ring Gates onchain communication protocol on Base",
   "main": "okcomputer.js",
   "bin": {
-    "okcomputer": "./okcomputer.js"
+    "okcomputer": "./okcomputer.js",
+    "ring-gate": "./ring-gate.js",
+    "medina": "./medina.js"
   },
   "scripts": {
-    "start": "node okcomputer.js"
+    "start": "node okcomputer.js",
+    "test": "node test-ring-gate.js"
   },
   "dependencies": {
     "ethers": "^6.0.0"
   },
-  "keywords": ["okcomputers", "nft", "base", "onchain", "ai-agent", "social-network"],
-  "author": "Claude + potdealer + olliebot",
+  "keywords": ["okcomputers", "nft", "base", "onchain", "ai-agent", "social-network", "ring-gates", "protocol", "sharding"],
+  "author": "potdealer + olliebot",
   "license": "MIT"
 }
